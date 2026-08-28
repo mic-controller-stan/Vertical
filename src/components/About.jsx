@@ -44,7 +44,7 @@ export default function About() {
 
         <div className="relative bg-[#111] overflow-hidden shadow-lg">
           <img
-            src="/framer/jjJ6XIKZWJ2rtvkJZuo8IqJCQHo.jpg"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil1yQmQPV41pRAT5imyWRJarxQw38CEBEIrPZu9IjtFD6BpZvChdh0MMPNFPtDVZoFOQpYE9erLxnXUdBbrLsjgwUNANQlwP-unpQ2cliN6dcZf8ep97dLbSOUX604rzXJTqfmfLKEoflbn80-OTF_3M0VoeTDT94ctqxF3M7ax4gKGorm7qXoe67coio/s1536/file_00000000d4b87208816f577bccd2085a.png"
             alt="Portrait of Girish Lade"
             className="w-full aspect-[4/5] object-cover grayscale contrast-110"
             loading="lazy"

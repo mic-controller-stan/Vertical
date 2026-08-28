@@ -10,7 +10,7 @@ export default function Manifesto(){
       <div className="relative max-w-[1400px] mx-auto grid md:grid-cols-[420px_1fr] gap-8 md:gap-12">
         <div className="hidden md:block">
           <div className="w-full aspect-[4/5] bg-[#111] overflow-hidden">
-            <img src="/framer/L61MvCY8ttcVvChrDXLqkdiAcFo.jpg" alt="Girish Lade engineering build log" className="w-full h-full object-cover grayscale contrast-110" loading="lazy" />
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpCy39pIvYqWGl7zcHXG_F0q8g-MJtbryn_M0oaXzFiezo9hGeomSF2xmUXQldEEFiI3CHtl_ftnevjoK5Bn7JaMYmZx2sxhjnMnKFMx4afGDhx46vVuVXCD9hgvbbNJo2G9RsTIZOnVae5YNsEGH2YWHPaiHNqd0HztYIq8g2o5rZW4xKpx2B9iliAnA/s2730/o.png" alt="Girish Lade engineering build log" className="w-full h-full object-cover grayscale contrast-110" loading="lazy" />
           </div>
         </div>
         <div className="md:pl-6 flex flex-col justify-center">

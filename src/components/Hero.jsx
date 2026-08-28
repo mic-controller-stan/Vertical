@@ -62,7 +62,7 @@ export default function Hero(){
     <section id="hero" className="relative h-[100vh] min-h-[620px] bg-black overflow-hidden flex flex-col">
       {/* portrait */}
       <div ref={portraitRef} className="absolute inset-0 left-[36%] md:left-[42%] will-change-transform" style={!reduce?{animation:'driftPortrait 17s ease-in-out infinite alternate'}:{}}>
-        <img src="/hero.jpg" alt="Portrait of Girish Lade" className="w-full h-full object-cover object-top grayscale contrast-[1.06]" loading="eager"
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnskFy99nwa-QN-rFLIPNK467AqtwwmMAiNrV1FRb1YkwZCFLCF_RnUh42HB-s6wrkuTx6l14qU_jSiMdVZZwB2a2oxMko8xCi2vQEVDARPMThApwCxtas-l5hc-HMG-hhbz9ysm-oHHfClFMpD0nzlaumgAecCtJRmhMZ7aOtnjAvTP24Cw4lDQ6Jh-I/s1483/verticle-hero.png" alt="Portrait of Girish Lade" className="w-full h-full object-cover object-top grayscale contrast-[1.06]" loading="eager"
           style={{
             opacity: loaded?1:0,
             transform: loaded? 'scale(1)':'scale(1.04)',

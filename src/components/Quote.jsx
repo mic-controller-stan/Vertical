@@ -14,7 +14,7 @@ export default function Quote() {
       </div>
       <div className="relative min-h-[460px] md:min-h-[560px] bg-black m-4 md:m-8 overflow-hidden shadow-lg">
         <img
-          src="/framer/WgSXpdQNIRyyqbHxMdMqlYBg4k.jpeg"
+          src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lZmrJa3slSsT3KZw_YnmqpqMFM_LdOCj6q-AoDzN3k3SLRLcMqkgsE8T11PQQI49Wz1w5tqcx8uA3MThiwzFBU-I-6aLZvU6_ICA89O-I6pK57eWbGRGNPnjmwUCESnMg_pO2k90pnSY_pIk_Ny62SdKMsu_nO2lNTb2V-BALPMjXaMnD_IKVYEMaDw/s1672/girish-vertile.png"
           alt="Lade Stack development studio"
           className="w-full h-full object-cover grayscale contrast-110"
           loading="lazy"
