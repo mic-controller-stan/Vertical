@@ -6,13 +6,13 @@ const galleryData = [
   [
     {
       city: 'LADESTACK CODER (LIVE)',
-      img: '/images/ladestack-coder.jpg',
+      img: 'https://blogger.googleusercontent.com/img/a/AVvXsEjh8DGplfZUrQYBkN43BTwxP24fhZyhp0XmWA2BjFm9FYpFoUZGIPZ_y6d9gKN3bxYJA7T9v1v_b5oupitr80iSk9k4WBWlTU00-6GH0ybVvpPbKA97cmYEplt5lWuLKs5dr_MzVuy1Npr6bg7n7YMjELhjQDUyOr-OLnubMPmwClwSB3K8lvESSqbIEpY',
       ratio: 'aspect-[3/4]',
       alt: 'LadeStack Coder - AI-powered HTML/CSS/JS compiler and editor',
     },
     {
       city: 'LS PDF TOOLKIT (LIVE)',
-      img: '/images/ladestack-pdf.jpg',
+      img: 'https://blogger.googleusercontent.com/img/a/AVvXsEgjT275yoi2L8LWRMs4MhsNwLO8D5H593vdJaD4oKKKb4zTzedeTJU9-tjYabhN7dGt0VV8ec9Ah4CanuCXa1Q4xshxJ2o3t_Qu6RmfB8-afkIImELGncceSDLDZTkKlD3xdfvsGUQQ3GATvPAFWHh4Ihh-Va51RMFQVUc_iqRMsCHwHLxZK8EvfniAeGc',
       ratio: 'aspect-[4/5]',
       alt: 'LS PDF - Free client-side PDF toolkit with zero server upload',
     },
@@ -21,13 +21,13 @@ const galleryData = [
   [
     {
       city: 'LADEDESIGN (LIVE)',
-      img: '/images/ladestack-design.jpg',
+      img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwxPGSIDHYiLnTM0IUzHkpIUUvCsNLcKj0JUz5-V0BEgY2r7lFopDPjT_57PpmCgQielpJs3HpznXxFaljqbztuK-HHf0OsHH4xOUR0k1WWtfZFA_MwdfjhBxxRl6va3kZb-9I3l8bMJKsQMZz3r5WZcoGcnzYSDVoNHg1dDcPegBBAYlnynYHUzOlvbE/s1480/ux-vs-ui-design@2x.jpg',
       ratio: 'aspect-[4/5]',
       alt: 'LadeDesign - AI UI/UX tool generating multi-screen application flows',
     },
     {
       city: 'LS CLI AGENT (NPM)',
-      img: '/images/ladestack-cli.jpg',
+      img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65lbuaK4dCEvOf-UUDmmfehe1LRtyn_ZbJe5qAJ3RVHJFT2cswBZVeF41a9Vy6_vD8rMx0mrBatXsmWJtwK7V8LDyGfRvwn72k_Po3ObCd24Qj1NwyN2jP6pK4Jy1y7seNloxQBX-_03rVbgnkK_MfaHaaz1cOh96ug16ZSmwqJoRPmM4w4kRjP4WPqA/s2560/screenshot.jpg',
       ratio: 'aspect-[3/4]',
       alt: 'LS CLI - Terminal-based autonomous AI coding agent package',
     },
@@ -36,13 +36,13 @@ const galleryData = [
   [
     {
       city: 'LS DOCS EDITOR (DEV)',
-      img: '/images/ladestack-docs.jpg',
+      img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhTd1wajttmr5Y7_6j3a4UppF6Q-jhP9FlhEJsTnLP7-VK6SroZoodQ6iAv_MSx7TR0-yaUEaylZA_zh6J4xfF6ILVYvvjvmfxvCBbyFNSMeMldgfFKS7UF1uH2qH2hGP3Pt8sexa7zgcxJJj44vje37JEsMQUA8-QiupnmZDpwVOZ8k0eS3nrVC6EKaU/s1920/oGqon5VfrJqe2joVW-T0_B2V2rPLpjTO.jpg',
       ratio: 'aspect-[4/5]',
       alt: 'LS Docs - AI-powered document editor and Google Docs alternative',
     },
     {
       city: 'LADESTACK NOTES (DEV)',
-      img: '/images/ladestack-notes.jpg',
+      img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXiZH81mbE9WzpQY5-yZEarquO6dx0SPM6vPYmRGfHKUEvWnlGFYL92QkuWqh3Q9Sr80UwHAAA5CjNBf2PPBMuZTrtPe4JRqZkFYk6iyTTy12SOPgzKnPRef1Pd2OV4gxPhr2AXxzLc7NBvCoW5t09EFdDrNMM_9B_uoeK6pn-hYfmqUpFsKHI7tpYNGc/s2796/1774992189-631172-1000008138-por.jpg',
       ratio: 'aspect-[3/4]',
       alt: 'LadeStack Notes - NotebookLM-style AI notes with RAG chat',
     },
